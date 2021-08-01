@@ -28,9 +28,17 @@ At first open arduino ide. >> Tools >>Manage libraries >> search IRremote >> ins
 ### Step 2
 Upload the decode program.
 circuit diagram 
+
+
 ![App Screenshot](https://raw.githubusercontent.com/rajib396/IR-remote-control-system-for-your-home-appliances/master/images/ss2.png)
+
+
 My sensor pinout 
+
+
 ![App Screenshot](https://raw.githubusercontent.com/rajib396/IR-remote-control-system-for-your-home-appliances/master/images/TSOP1738-Pin-Configuration.png)
+
+
 IR decoder code link:- 
 
 ### Step 3
