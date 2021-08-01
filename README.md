@@ -45,7 +45,7 @@ IR decoder code link:-
 
 Write down the 3 key code and paste in the main program.
 
-![App Screenshot](-----ss3.png-----)
+![App Screenshot](https://raw.githubusercontent.com/rajib396/IR-remote-control-system-for-your-home-appliances/master/images/remote_decode.png)
 
 And Upload the main program.
 
