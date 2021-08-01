@@ -2,7 +2,7 @@
 # 🤖️ IR remote control system
 Your can control Your home appliances use any IR remote.
 The brain of this project is Arduino UNO.
-My youtube video link :- 
+My youtube video link :- https://youtu.be/J_mJJpznfPo
 
 ## 🕹️ Components list 
 
